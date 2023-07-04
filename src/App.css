@@ -1,0 +1,30 @@
+.App {
+  background-color: rgb(255, 244, 240);
+  font-family: arial;
+  font-weight: 600;
+}
+
+.card {
+  width: 18rem;
+  margin: 20px auto;
+  box-shadow: 0 4px 6px rgba(14, 13, 13, 0.1);
+}
+
+.card-body {
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+p {
+  margin-bottom: 0.5rem;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
